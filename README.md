@@ -27,7 +27,14 @@ city:
 state:
 zip:
 loc:[ longitude, latitude]
+
 Write Javascript MongoDB shell code to do the following:
+
+task1:
 Find all airports within 300 miles of the Starbucks closest to the UCSC extension in the collection of 10 Starbucks
+
+task2:
 Find all airports within 500 miles of the furthest Starbucks in the collection of 10 Starbucks
+
+task3:
 Find the average distance to a Starbucks (from the collection of 10) from the UCSC extension.
